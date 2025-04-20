@@ -44,7 +44,7 @@ Feel free to explore the code, open issues for suggestions, or contribute to thi
 ## Contact
 
 If you have questions, suggestions, or just want to say hi, you can reach me here:
-- **GitHub**: [My GitHub Profile]([https://github.com/YOUR_USERNAME](https://github.com/Blacklightnin9))
+- **GitHub**: [My GitHub Profile]([https://github.com/Blacklightnin9])
 
 ---
 
