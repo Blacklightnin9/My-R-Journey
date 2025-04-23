@@ -2,7 +2,7 @@
 title: "Report on Gun Murders"
 author: "Andi Bima"
 date: "2025-04-23"
-output: html_document
+output: github_document
 ---
 
 ```{r setup, include=FALSE}
