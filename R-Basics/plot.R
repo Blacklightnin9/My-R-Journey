@@ -3,5 +3,5 @@ library(dslabs)
 data(murders)
 
 murders %>%
-  ggplot(aes(population, ttotal, label=abb, color=region)) +
+  ggplot(aes(population, total, label=abb, color=region)) +
   geom_label()
